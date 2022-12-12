@@ -1,0 +1,7 @@
+Обновить список удалённых веток:
+
+    git remote update origin --prune
+
+Удалить удалённую ветку:
+
+    git push origin --delete your_branch
