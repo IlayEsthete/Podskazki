@@ -1,4 +1,8 @@
 				Установка драйверов Nvidia
+				
+				Полная инструкция на сайте:
+				https://lumpics.ru/how-to-install-nvidia-driver-in-linux/
+				
 
 1. Узнаем необходимую версию драйвера
 
